@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float64-base-to-float32",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert a double-precision floating-point number to the nearest single-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
