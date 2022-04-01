@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/number-float64-base-to-float32",
+  "version": "0.0.0",
+  "description": "Convert a double-precision floating-point number to the nearest single-precision floating-point number.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/number-float64-base-to-float32.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "base",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "types",
+    "type",
+    "cast",
+    "convert",
+    "float64",
+    "double",
+    "dbl",
+    "float32",
+    "float",
+    "to",
+    "bits",
+    "number"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
